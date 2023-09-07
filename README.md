@@ -22,7 +22,7 @@ THEN I am able to successfully create, update, and delete data in my database``
 
 ## Description
  
-This is challenge 13. I was tasked with taking given starter code and adding the back-end for an E-commerce business. I used MySQL, Node.js, Express, Sequelize, and Dotenv to create the ecommerce database and stored the seeds for products, categories, and tags. When the user opens the CLI they will create and seed the database using the MySQL shell commands. When the user visits their API client and creates an http request, they will be able to get, delete, post, and update to any of the products, categories, or tags. When the user visits the SQL database, they will see the changes reflected in the tables.
+I was tasked with taking given starter code and adding the back-end for an E-commerce business. I used MySQL, Node.js, Express, Sequelize, and Dotenv to create the ecommerce database and stored the seeds for products, categories, and tags. When the user opens the CLI they will create and seed the database using the MySQL shell commands. When the user visits their API client and creates an http request, they will be able to get, delete, post, and update to any of the products, categories, or tags. When the user visits the SQL database, they will see the changes reflected in the tables.
 
 ## Usage
 [E-Commerce Back-End](https://drive.google.com/file/d/1leN9ttrvKPoV7slFktwmKpmdOI1vI-yg/view)
